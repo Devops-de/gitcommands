@@ -75,7 +75,4 @@ A---B---C (main)
 > Summary:  
 > Use `merge` to combine, use `rebase` to simplify.
 
----
-
-![Alt text](./images/git-merge-vs-rebase.png)
 

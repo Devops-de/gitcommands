@@ -3,6 +3,7 @@ Explain the Git branching strategy you used in your company. Align it with the o
 
 📝 Short Explanation
 
+
 This question explores how you organize your Git workflow in a collaborative environment — especially in large codebases. Kubernetes, like many open-source projects, uses a clean and scalable branching strategy.
 
 ✅ Answer
